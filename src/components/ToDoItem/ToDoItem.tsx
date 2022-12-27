@@ -1,5 +1,7 @@
-import { Switch } from '@mui/material'
 import React from 'react'
+
+import { Switch } from '@mui/material'
+
 import { ToDoItemType } from '../../context/TodoContext'
 
 import { useStyles } from './ToDoItemStyles'
